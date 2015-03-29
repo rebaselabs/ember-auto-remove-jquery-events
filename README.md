@@ -1,10 +1,12 @@
-# Ember-auto-off
+# ember-auto-remove-jquery-events
 
-This README outlines the details of collaborating on this Ember addon.
+Automatically removes jQuery events on destruction of the view.
+
+Gone are the days of `this.$().off` to avoid leaks
 
 ## Installation
 
-* `git clone` this repository
+* `git clone https://github.com/jasonmit/ember-auto-remove-jquery-events.git`
 * `npm install`
 * `bower install`
 
@@ -23,3 +25,4 @@ This README outlines the details of collaborating on this Ember addon.
 * `ember build`
 
 For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+# ember-auto-remove-jquery-events

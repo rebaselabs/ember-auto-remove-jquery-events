@@ -1,7 +1,7 @@
 {
-  "name": "ember-auto-off",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "name": "ember-auto-off-jquery",
+  "version": "0.0.1",
+  "description": "Automatically removes jQuery events from this.$()",
   "directories": {
     "doc": "doc",
     "test": "tests"
