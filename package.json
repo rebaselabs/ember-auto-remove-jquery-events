@@ -1,6 +1,6 @@
 {
   "name": "ember-auto-remove-jquery-events",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Automatically removes jQuery events from this.$()",
   "directories": {
     "doc": "doc",

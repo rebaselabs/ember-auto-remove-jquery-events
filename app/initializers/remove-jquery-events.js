@@ -5,7 +5,7 @@ export default {
 
   initialize: (container, app) => {
     Ember.CoreView.reopen({
-      destroyEvents: Ember.on('willDestroyElement', () => {
+      destroyEvents: Ember.on('willDestroyElement', function () {
         this.$().off();
       })
     });
