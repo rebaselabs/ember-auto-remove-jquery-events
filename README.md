@@ -25,4 +25,3 @@ Gone are the days of `this.$().off` to avoid leaks
 * `ember build`
 
 For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
-# ember-auto-remove-jquery-events
